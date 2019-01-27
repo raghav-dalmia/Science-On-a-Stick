@@ -84,7 +84,7 @@ Set the experimental setup as shown in [picture.](https://github.com/raghav-dalm
    
 **Output**
 ----------
-![output1](https://github.com/raghav-dalmia/Science-On-a-Stick/blob/master/Images/Picture-9%20(2).jpeg)
+![output1](https://github.com/raghav-dalmia/Science-On-a-Stick/blob/master/Images/Picture-10.jpeg)
 
 ![output2](https://github.com/raghav-dalmia/Science-On-a-Stick/blob/master/Images/Screenshot%20(119).png)
        
