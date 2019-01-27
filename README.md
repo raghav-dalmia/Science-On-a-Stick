@@ -43,13 +43,34 @@ Download Eagle (PCB design software) from this [link.](https://www.autodesk.in/p
 
 Open the given board layouts and fabricate them. The schematic folder has three schematics and their board layouts. 
 
+**Images of Fabricated Board and coil**
+---------------------------------------
+![main_board](https://github.com/raghav-dalmia/Science-On-a-Stick/blob/master/Images/PCB.jpeg)
+
+![sensor](https://github.com/raghav-dalmia/Science-On-a-Stick/blob/master/Images/Sensor.jpg)
+
+![coil](https://github.com/raghav-dalmia/Science-On-a-Stick/blob/master/Images/Coil.jpeg)
+
+**!! More than 1000 turns (36 gauge copper wire) of coil winding can destroy the circuit**
+
 # Usage
+
 ## Law's of MOtion
+
+Set the experimental tube as shown in [picture.](https://github.com/raghav-dalmia/Science-On-a-Stick/blob/master/Images/Law's%20of%20Motion%20Setup.jpeg)
+
 1. open Arduino IDE and upload `Laws_of_Motion` code.
 
 2. For law's motion open the serial monitor and enter values asked by monitor.
 
+**Output**
+----------
+![output](https://github.com/raghav-dalmia/Science-On-a-Stick/blob/master/Images/Picture-12%20(2).jpeg)
+
 ## Lenz's Law
+
+Set the experimental setup as shown in [picture.](https://github.com/raghav-dalmia/Science-On-a-Stick/blob/master/Images/Lenz's%20Law%20Setup.jpeg)
+
 1. Open Arduino IDE and upload `Lenz_s_Law_Arduino` code.
 2. Open python code and change com port value(in Windows its `com5`, in Linux its `/dev/ttyUSB0`)
     
@@ -60,6 +81,12 @@ Open the given board layouts and fabricate them. The schematic folder has three 
 4. Run python code by the following command
 
        python "Lenz's_Law_Python.py"
+   
+**Output**
+----------
+![output1](https://github.com/raghav-dalmia/Science-On-a-Stick/blob/master/Images/Picture-9%20(2).jpeg)
+
+![output2](https://github.com/raghav-dalmia/Science-On-a-Stick/blob/master/Images/Screenshot%20(119).png)
        
 # Credits
 This experimental setup is developed under the guidance of Prof. D.V. Gadre, Director CEDT, NSUT.
